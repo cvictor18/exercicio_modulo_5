@@ -19,7 +19,7 @@ footer {
 header h1 {
     font-family: 'Gothic A1', sans-serif;
     font-weight: normal;
-    font-size: 33px;
+    font-size: 40px;
     margin-left: 5px;
 }
 
@@ -27,7 +27,7 @@ header h1 {
     display: flex;
     justify-content: space-between;
     margin-left: 15px;
-    margin-top: 30px;
+    margin-top: 60px;
     align-items: baseline;
 }
 
@@ -40,6 +40,7 @@ header h1 {
     text-decoration: none;
     color: rgba(255, 68, 0, 0.863);
     padding: 5px;
+    font-size: 20px;
 }
 
 .cabecalho a:hover {
